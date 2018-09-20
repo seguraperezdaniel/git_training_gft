@@ -1,1 +1,1 @@
-# git_training_gft
+Curso de Iniciacion a GIT
