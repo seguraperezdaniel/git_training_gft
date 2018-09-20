@@ -1,6 +1,3 @@
 Curso de Iniciacion a GIT
 
--> Primer Commit
--> Commit unico 1
--> Commit unico 2
--> Ejercicio 3 en rama features
+Cambios para el ejercicio 4. Features4
