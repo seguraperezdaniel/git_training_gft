@@ -1,5 +1,5 @@
 Curso de Iniciacion a GIT
 
 
-Cambios para diferencia en merges.
+Cambios para diferencia en merges. ejemplo rebase
 
