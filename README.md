@@ -1,3 +1,3 @@
 Curso de Iniciacion a GIT
 
-Cambios para el ejercicio 4. Features4
+Cambios para diferencia en merges.
